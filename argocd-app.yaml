@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Shirleyu98/complete-devops-project
     targetRevision: HEAD
-    path: guestbook
+    path: complete-devops-project-time-printer
   destination:
     server: https://kubernetes.default.svc
     namespace: default
