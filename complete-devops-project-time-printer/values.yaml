@@ -1,6 +1,6 @@
 image:
   repository: shirleycutie/complete-devops-project
-  tag: 04bfb7e
+  tag: 62d705f
   pullPolicy: IfNotPresent
 
 service:
